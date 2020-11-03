@@ -5,8 +5,10 @@
 //  Created by Harris Zacharis on 3/11/20.
 //
 
-class TaskStore {
-    var tasks = [
+import Combine
+
+class TaskStore: ObservableObject {
+    @Published var tasks = [
         "Code a SwiftUI app",
         "Make a new account",
         "Visit a doctor",

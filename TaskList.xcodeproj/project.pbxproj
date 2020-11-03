@@ -15,6 +15,7 @@
 		4D6B20EB2551D7C8006A8CE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D6B20E92551D7C8006A8CE7 /* LaunchScreen.storyboard */; };
 		4D6B20F42551D838006A8CE7 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6B20F32551D838006A8CE7 /* Task.swift */; };
 		4D6B20F92551D8BF006A8CE7 /* TaskStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6B20F82551D8BF006A8CE7 /* TaskStore.swift */; };
+		4D6B20FD2551ED59006A8CE7 /* NewTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6B20FC2551ED59006A8CE7 /* NewTaskView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4D6B20EC2551D7C8006A8CE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D6B20F32551D838006A8CE7 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		4D6B20F82551D8BF006A8CE7 /* TaskStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore.swift; sourceTree = "<group>"; };
+		4D6B20FC2551ED59006A8CE7 /* NewTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4D6B20DE2551D7C7006A8CE7 /* AppDelegate.swift */,
 				4D6B20E02551D7C7006A8CE7 /* SceneDelegate.swift */,
 				4D6B20E22551D7C7006A8CE7 /* ContentView.swift */,
+				4D6B20FC2551ED59006A8CE7 /* NewTaskView.swift */,
 				4D6B20F72551D87F006A8CE7 /* Models */,
 				4D6B20E42551D7C8006A8CE7 /* Assets.xcassets */,
 				4D6B20E92551D7C8006A8CE7 /* LaunchScreen.storyboard */,
@@ -161,6 +164,7 @@
 			files = (
 				4D6B20F92551D8BF006A8CE7 /* TaskStore.swift in Sources */,
 				4D6B20F42551D838006A8CE7 /* Task.swift in Sources */,
+				4D6B20FD2551ED59006A8CE7 /* NewTaskView.swift in Sources */,
 				4D6B20DF2551D7C7006A8CE7 /* AppDelegate.swift in Sources */,
 				4D6B20E12551D7C7006A8CE7 /* SceneDelegate.swift in Sources */,
 				4D6B20E32551D7C7006A8CE7 /* ContentView.swift in Sources */,
